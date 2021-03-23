@@ -9,7 +9,6 @@ public class App {
         ////////////////////////////////////
         // CREAZIONE DIPENDENTI CASUALI
         ////////////////////////////////////
-
         /*amministrativa, commerciale, logisatica, manutenzione, produzione*/
         String[] reparti = {"amm", "comm", "log", "man", "prod"};
         Operaio[] operai = new Operaio[5];
