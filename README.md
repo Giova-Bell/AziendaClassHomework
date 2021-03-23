@@ -11,4 +11,3 @@ lo spazio di lavoro contiene 1 cartella principale e 3 sottocartelle:
     - `GUI_Component`: cartella contenente tutti i componenti standardizzati usati per creare la GUI
     - `Views`: cartella contenente tutte le finestre generate
     - `App.java`: file principale
-
