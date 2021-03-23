@@ -4,12 +4,10 @@ compito fatto per scuola dove creo una GUI che gestisce un "databse" definito da
 
 ## Folder Structure
 
-lo spazio di lavoro contiene 2 cartelle principali:
+lo spazio di lavoro contiene 1 cartella principale e 3 sottocartelle:
 
 - `src`: cartella contenente tutti i source file
     - `Azienda_Class`: cartella contenente tutte le classi riguardanti la classe l'azienda (classe Azienda compresa)
     - `GUI_Component`: cartella contenente tutti i componenti standardizzati usati per creare la GUI
     - `Views`: cartella contenente tutte le finestre generate
     - `App.java`: file principale
-- `lib`: cartella contenente tutte le dipendenza (vuota)
-
