@@ -14,7 +14,7 @@ lo spazio di lavoro contiene 1 cartella principale e 3 sottocartelle:
 
 ## Lanciare Il Programma
 
-eseguire i comandi dalla cartella src:
+eseguire i comandi dalla cartella src
 ```
 javac Azienda_Class/*.java GUI_Component/*.java Views/*.java App.java
 ```
